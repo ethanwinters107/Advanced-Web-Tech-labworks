@@ -5,4 +5,4 @@ if(a<18)
     
 }
 else 
-console.log("holllaaa");
+console.log("Meow ;-;");
